@@ -1,0 +1,9 @@
+certifi==2018.11.29
+cffi
+mkl-fft
+mkl-random
+numpy==1.15.4
+Pillow==5.4.1
+pycparser==2.19
+scipy==1.1.0
+torch==0.4.1
